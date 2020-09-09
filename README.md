@@ -11,6 +11,9 @@ Problem Statement: The Pima Indians Diabetes Dataset involves predicting the ons
     Diabetes pedigree function.
     Age (years).
     Is Diabetic (0 or 1).
+    
+ ![Elbow](https://user-images.githubusercontent.com/70466481/92577138-f5788d00-f2a7-11ea-9bd5-ca92252a5031.png)
+
 
 **The main advantages:**
 - out of the box feature of appropriate bias-variance trade-off,
